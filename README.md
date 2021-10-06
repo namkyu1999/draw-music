@@ -1,6 +1,6 @@
 # draw-music
 
-<img src="./media/logo.png" width=256 height=256 />
+<img src="./media/logo.png" height=256 />
 
 darkforest is a console and web-based Roguelike written in Rust and WebAssembly.
 
